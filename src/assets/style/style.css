@@ -1,0 +1,64 @@
+html {
+    min-height: 100%;
+  }
+  body, #root, .full {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(198, 202, 207);
+    font-family: 'BIZ UDPGothic', sans-serif;
+  }
+  /* body {
+    height: 100%;
+    background-color: #D8CFAF;
+  } */
+  
+  nav, footer {
+    background-color: #eb8a90;
+  }
+  
+  footer{
+    padding: 5px;
+    /* margin-top: auto; */
+  }
+  /* nav {
+    background-color: #7D8CA3;
+  } */
+  
+  .point{
+    cursor: pointer;
+  }
+  
+  #avatar {
+    max-height: 45vh;
+    border-radius: 50px;
+    border: 5px solid black;
+  }
+  
+  #resumeImg {
+    /* hit this with some media queries */
+    max-height: 20vw;
+  } 
+  
+  #skillCard {
+    width: 28rem;
+  }
+  
+  #contactBtn {
+    background-color: #eb8a90
+  }
+  
+  .my-border{
+    border-radius: 20px;
+    border: 3px solid black;
+  }
+  
+  .p-image {
+    /* max-height: 35vh; */
+    max-width: 65vw;
+    border: 3px solid black;
+  }
+  
+  #aboutMe{
+    max-width: 60vw;
+  }
