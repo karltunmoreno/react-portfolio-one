@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { validateEmail } from "../../utilities/helpers";
+import { validateEmail } from "../../utils/helpers";
 
 function Contact() {
   const width = 40;

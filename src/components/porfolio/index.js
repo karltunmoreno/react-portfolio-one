@@ -5,7 +5,7 @@ function Portfolio() {
     {
       name: "My Crypto",
       id: "mycrypto",
-      description: "A crypto app that allows you to store your portfolio and check crypto conversions",
+      description: "A crypto app that allows you to store your portfolio and check crypto conversions.",
       liveUrl: "https://fathomless-ocean-39616.herokuapp.com/",
       gitHub: "https://github.com/karltunmoreno/my_crypto"
     },
@@ -53,4 +53,4 @@ function Portfolio() {
   );
 }
 
-export default Portfolio
+export default Portfolio;
