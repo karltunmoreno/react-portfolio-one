@@ -111,7 +111,7 @@ function Contact() {
               <p className="text-center fw-bold">Contact Information</p>
               <p className="text-center">
                 <i>
-                  KARLTUN Moreno
+                  KARLTUN MORENO
                   <br></br> <br></br> MIAMI FLORIDA, 33156
                   <br></br>
                   <br></br>Phone: 818-317-4178

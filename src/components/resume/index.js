@@ -43,10 +43,9 @@ function Resume() {
                 development and coding at the University of Miami and holds a
                 certificate in Front and Back End Web Development.
                 <br></br> <br></br>* I have experience working with CSS
-                frameworks such as Bootstrap and Bulma and have built a project
-                using mostly with custom CSS styling.
+                frameworks such as CSS styling and Bootstrap API's.
                 <br></br>
-                WEB DEVELOPMENT: Word press, Wix, Moonfruit. Intuit, HTML
+                WEB DEVELOPMENT SKILLS SET: Word press, Wix, Moonfruit. Intuit, HTML
                 formats for I-Pads & cell phones. Mac OS & IOS, Android, Google
                 Search Console, Sitemaps, GIT, CSS, JavaScript, Bootstrap, JSON,
                 API, AJAX, Node.js, express, MySQL, Mongo DB, MERN Stack,
