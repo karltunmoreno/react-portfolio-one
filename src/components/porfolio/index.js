@@ -2,6 +2,7 @@ import React from "react";
 
 function Portfolio() {
   const projects = [
+    
     {
       name: "My Crypto",
       id: "mycrypto",
@@ -9,7 +10,9 @@ function Portfolio() {
       liveUrl: "https://fathomless-ocean-39616.herokuapp.com/",
       gitHub: "https://github.com/karltunmoreno/my_crypto"
     },
-    {
+
+
+{
       name: "Travel Buddy",
       id: "travelbuddy",
       description: "Travel with an updated reel time 5 day weather forcast and current currency exchange rates",
