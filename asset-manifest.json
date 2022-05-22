@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.caa473c9.css",
+    "main.js": "/static/js/main.41069a0e.js",
+    "static/js/787.5fb4989e.chunk.js": "/static/js/787.5fb4989e.chunk.js",
+    "static/media/gggg.png": "/static/media/gggg.9f3f2e37607d59d1f785.png",
+    "static/media/travelbuddy.png": "/static/media/travelbuddy.410d5b52fe3e07db440f.png",
+    "static/media/mycrypto.png": "/static/media/mycrypto.a2db97a973127f000a03.png",
+    "static/media/1234.png": "/static/media/1234.3916c6e50ed4de3f76be.png",
+    "static/media/789.png": "/static/media/789.22add55cade60e4927e6.png",
+    "static/media/workday.png": "/static/media/workday.8c0eb08667106bf69df1.png",
+    "static/media/timequiz.png": "/static/media/timequiz.16be4e07a026cfee6792.png",
+    "static/media/Full Stack Web Developer_Page_1.png": "/static/media/Full Stack Web Developer_Page_1.95f6e6d817b0b112eb0c.png",
+    "static/media/kkk.jpg": "/static/media/kkk.752fa1ed2339f1c05fac.jpg",
+    "static/media/FAA.logo.png": "/static/media/FAA.logo.cbe38b5737e3e349e4a0.png",
+    "index.html": "/index.html",
+    "main.caa473c9.css.map": "/static/css/main.caa473c9.css.map",
+    "main.41069a0e.js.map": "/static/js/main.41069a0e.js.map",
+    "787.5fb4989e.chunk.js.map": "/static/js/787.5fb4989e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caa473c9.css",
+    "static/js/main.41069a0e.js"
+  ]
+}
