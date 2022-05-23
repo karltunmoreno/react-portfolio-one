@@ -8,16 +8,23 @@ html {
     background-color: rgb(198, 202, 207);
     font-family: 'BIZ UDPGothic', sans-serif;
   }
+    
+  
+ 
   
   
   nav, footer {
     background-color: #e8a24d;
      float: center;
-    
-      padding: 25px;
+    padding: 25px;
       background-color: #e8a24d;
     }
-    
+     .namecall {
+       font-size: 35px;
+       color: black;
+       
+       
+     }
   
   footer{
     padding: 5px;
@@ -45,7 +52,7 @@ html {
   }
   
   #contactBtn {
-    background-color: #eb8a90
+    background-color: #e09ba0
   }
   
   .my-border{
@@ -59,6 +66,7 @@ html {
     border: 3px solid black;
   }
   
-  #aboutMe{
+  #aboutMe {
     max-width: 60vw;
   }
+

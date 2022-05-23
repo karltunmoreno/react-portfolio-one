@@ -20,9 +20,10 @@ function Header(props) {
     <div className="sticky-top">
       <nav className="navbar navbar-expand-lg navbar-light sticky-top">
         <div className="container-fluid">
-          <a className="navbar-brand fw-bold" href="/">
-            Karltun Moreno
+          <a className="namecall" href="/">
+            KARLTUN MORENO
           </a>
+          
           <button
             className="navbar-toggler"
             type="button"
