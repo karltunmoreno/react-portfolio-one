@@ -7,12 +7,29 @@ function Portfolio() {
       name: "My Crypto",
       id: "mycrypto",
       description: "A crypto app that allows you to store your portfolio and check crypto conversions.",
+      
       liveUrl: "https://fathomless-ocean-39616.herokuapp.com/",
       gitHub: "https://github.com/karltunmoreno/my_crypto"
     },
 
+    {
+      name: "Tech Blog",
+      id: "techblog.png",
+      description: "This application and website is used for creating and sharing blog posts centered around technology. Allows users to view, edit and delete their posts and view and comment on the posts of others.​Node.js,Express, Sequalize, MySql2, .dotenv, bcrypt, Express-Handlebars.",
+      liveUrl: "https://arcane-beach-63003.herokuapp.com/home",
+      gitHub: "https://github.com/karltunmoreno/TECH-BLOG"
+    },
 
-{
+
+    {
+      name: "Control Budget Check",
+      id: "controlbudgetcheck.png",
+      description: "As a an avid traveler I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling Acceptance Criteria GIVEN a budget tracker without an internet connection WHEN the user inputs an expense or deposit THEN they will receive a notification that they have added an expense or deposit WHEN the user reestablishes an internet connection THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated.MongoDB/Atlas, Express, JS, Mongoose, Heroku, Node.js.",
+      liveUrl: "https://agile-forest-63593.herokuapp.com/",
+      gitHub: "https://github.com/karltunmoreno/Control-Budget-Check"
+    },
+
+    {
       name: "Travel Buddy",
       id: "travelbuddy",
       description: "Travel with an updated reel time 5 day weather forcast and current currency exchange rates",
