@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/react-portfolio-one/static/css/main.7297797f.css",
-    "main.js": "/react-portfolio-one/static/js/main.bd1f6c92.js",
+    "main.js": "/react-portfolio-one/static/js/main.e27d33fc.js",
     "static/js/787.5fb4989e.chunk.js": "/react-portfolio-one/static/js/787.5fb4989e.chunk.js",
     "static/media/gggg.png": "/react-portfolio-one/static/media/gggg.9f3f2e37607d59d1f785.png",
     "static/media/travelbuddy.png": "/react-portfolio-one/static/media/travelbuddy.410d5b52fe3e07db440f.png",
+    "static/media/momentuum.png": "/react-portfolio-one/static/media/momentuum.682691334340b6e0283d.png",
     "static/media/mycrypto.png": "/react-portfolio-one/static/media/mycrypto.a2db97a973127f000a03.png",
     "static/media/1234.png": "/react-portfolio-one/static/media/1234.3916c6e50ed4de3f76be.png",
     "static/media/techblog.png.png": "/react-portfolio-one/static/media/techblog.png.6ea962cb6017edeebc51.png",
@@ -17,11 +18,11 @@
     "static/media/FAA.logo.png": "/react-portfolio-one/static/media/FAA.logo.cbe38b5737e3e349e4a0.png",
     "index.html": "/react-portfolio-one/index.html",
     "main.7297797f.css.map": "/react-portfolio-one/static/css/main.7297797f.css.map",
-    "main.bd1f6c92.js.map": "/react-portfolio-one/static/js/main.bd1f6c92.js.map",
+    "main.e27d33fc.js.map": "/react-portfolio-one/static/js/main.e27d33fc.js.map",
     "787.5fb4989e.chunk.js.map": "/react-portfolio-one/static/js/787.5fb4989e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7297797f.css",
-    "static/js/main.bd1f6c92.js"
+    "static/js/main.e27d33fc.js"
   ]
 }
