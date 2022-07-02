@@ -4,7 +4,7 @@ function Portfolio() {
   const projects = [
     {
       name: "StartBein",
-      id: "startbein",
+      id: "startbein.jpg",
       description:
         "This application uses the MERN stack, Mongo, Express.js, React and Node.js. A CONTRIBUTORS BLOG . Time to make the world a better place now and for the future. Contribute your comments and sign up to take action. This community environment ignites same like minded individuals to engage and find solutions for the earth. Start bein to change the world one bein in time!",
       liveUrl: "https://powerful-harbor-74459.herokuapp.com/#About",
