@@ -3,12 +3,13 @@ import React from "react";
 function Portfolio() {
   const projects = [
     {
-      name: "startBein",
-      id: "thisone.png",
+      name: "My Crypto",
+      id: "mycrypto",
       description:
-        "This application uses the MERN stack, Mongo, Express.js, React and Node.js. A CONTRIBUTORS BLOG . Time to make the world a better place now and for the future. Contribute your comments and sign up to take action. This community environment ignites same like minded individuals to engage and find solutions for the earth. Start bein to change the world one bein in time!",
-      liveUrl: "https://powerful-harbor-74459.herokuapp.com/#About",
-      gitHub: "https://github.com/karltunmoreno/start-bein",
+        "A crypto app that allows you to store your portfolio and check crypto conversions.",
+
+      liveUrl: "https://fathomless-ocean-39616.herokuapp.com/",
+      gitHub: "https://github.com/karltunmoreno/my_crypto",
     },
 
     {
@@ -18,16 +19,6 @@ function Portfolio() {
         "This is a React Application built for photographers and alike. Created with React, and Bootstrap.",
       liveUrl: "https://karltunmoreno.github.io/momentuum/",
       gitHub: "https://github.com/karltunmoreno/momentuum/",
-    },
-
-    {
-      name: "My Crypto",
-      id: "mycrypto",
-      description:
-        "A crypto app that allows you to store your portfolio and check crypto conversions.",
-
-      liveUrl: "https://fathomless-ocean-39616.herokuapp.com/",
-      gitHub: "https://github.com/karltunmoreno/my_crypto",
     },
 
     {
