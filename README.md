@@ -7,6 +7,15 @@ ________________________________________________________________________________
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
+___________________________________________________________________________________________________________________________________________________________________
+
+##Tech Used
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+  
 
 ___________________________________________________________________________________________________________________________________________________________________
 
